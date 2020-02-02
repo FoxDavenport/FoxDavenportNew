@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=CircleQueueDemo
+comment0.text=\n\ \ Demonstrates\ the\ use\ of\ Stack\ created\ from\ LinkedList\ class.\n\n\ @author\ \ \ \ \ John\ Mortensen\n\ @created\ \ \ \ December\ 24,\ 2019\n
+comment1.params=
+comment1.target=CircleQueueDemo()
+comment2.params=
+comment2.target=void\ createQueue()
+comment2.text=\n\ \ Creates\ a\ series\ of\ user\ defined\ objects\ and\ populates\ on\ Stack,\n\ \ any\ type\ of\ object\ can\ be\ used,\n\ \ stack\ pushes\ and\ operations\ are\ displayed\ to\ console\n
+comment3.params=
+comment3.target=void\ emptyQueue()
+comment3.text=\n\ \ Removes\ all\ the\ user\ defined\ objects\ from\ Stack,\n\ \ this\ is\ inverse\ of\ createStack,\n\ \ stack\ pops\ and\ values\ are\ displayed\ to\ console\ \n
+comment4.params=
+comment4.target=void\ displayQueue()
+comment4.text=\n\ \ Display\ the\ top\ element\ of\ the\ list\ and\ full\ stack\n
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+comment5.text=\n\ \ Demonstrates\ the\ use\ of\ the\ LinkedList\ used\ as\ Stack.\n\n\ @param\ \ args\ \ The\ command\ line\ arguments\ (not\ used)\n
+numComments=6

@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Stack
+comment0.text=\n\ \ Implementation\ of\ Stack,\ using\ LinkedList\ (previous\ only).\n\n\ @author\ \ \ \ \ John\ Mortensen\n\ @created\ \ \ \ December\ 24,\ 2019\n
+comment1.params=
+comment1.target=Stack()
+comment1.text=\n\ \ Constructor\ for\ the\ SinglyLinkedList\ object\n\ \ Generates\ an\ empty\ list.\n
+comment2.params=
+comment2.target=java.lang.Object\ getObject()
+comment2.text=\n\ \ Returns\ the\ current\ (LIFO)\ objects\ value.\n\n\ @return\ \ the\ current\ objects\ value\ in\ Stack.\n
+comment3.params=value
+comment3.target=void\ push(java.lang.Object)
+comment3.text=\n\ \ Inserts\ a\ new\ object\ at\ the\ top\ of\ this\ Stack,\n\n\ @param\ \ value\ \ is\ the\ data\ to\ be\ inserted\ at\ the\ top\ of\ the\ Stack.\n
+comment4.params=
+comment4.target=java.lang.Object\ pop()
+comment4.text=\n\ \ Removes\ the\ top\ element\ in\ the\ Stack.\ \ Garbage\ collection\ should\ destroy\ this\ element\ when\ needed.\n\n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=\n\ \ Returns\ a\ string\ representation\ of\ this\ Stack,\n\ \ polymorphic\ nature\ of\ toString\ overrides\ of\ standard\ System.out.print\ behavior\n\n\ @return\ \ \ \ string\ representation\ of\ this\ list\n
+numComments=6

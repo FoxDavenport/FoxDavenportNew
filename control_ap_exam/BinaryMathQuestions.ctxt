@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=BinaryMathQuestions
+comment0.text=\n\ Class\ to\ support\ Binary\ Math\ operations\n\ \n\ @author\ (John\ Mortensen)\n\ @version\ (1.0)\n
+comment1.params=
+comment1.target=BinaryMathQuestions()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ BinaryMathQuestions\n\ \n\ @param\ \ void\n
+comment2.params=
+comment2.target=void\ setupQuestionData()
+comment2.text=\n\ Sets\ up\ a\ Binary\ Math\ questions\ according\ to\ instance\ variables\ (this...)\ in\ Question\ class\n\n\ @return\ \ \ \ void\n
+comment3.params=arg\ binaryLength
+comment3.target=java.lang.String\ zeroPadInt2BinaryString(int,\ int)
+comment3.text=\n\ Zero\ pad\ binary\ number\ to\ supplied\ binary\ length\ \n\n\ @param\ \ arg1\ \ \ \ \ \ \ \ \ \ \ \ \ number\ to\ convert\ to\ binary\n\ @param\ \ binaryLength\ \ \ \ \ number\ of\ bits\ for\ number\ (ie\ 4\ bits)\n\ @return\ \ \ \ the\ binary\ String\ with\ leading\ 0s\n
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+comment4.text=\n\ Main\ test\ method\ to\ support\ console\ execution\n\ \n\ @param\ \ args\t\t//\ satisfies\ default\ for\ Java\n\ @return\ void\n
+comment5.params=
+comment5.target=java.lang.String\ mainTest()
+comment5.text=\n\ MainTest\ supports\ console\ execution\ and\ receiving\ write\ or\ wrong\ return\ message\n\ \n\ @param\ \ void\n\ @return\ score\ /\ right\ or\ wrong\n
+numComments=6

@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=MethodShow
+comment1.params=
+comment1.target=MethodShow()
+comment1.text=\n\tpublic\ static\ void\ main\ (String[]\ args)\n\ \ \ \ {\n\ \ \ \ \ \ \ \ //method\ name\ to\ be\ searched\n\ \ \ \ \ \ \ \ scan\ ("Vow");\n\ \ \ \ }\ \ \n
+comment2.params=filenm\ method
+comment2.target=void\ setTerms(java.lang.String,\ java.lang.String)
+comment3.params=
+comment3.target=void\ scan()
+comment4.params=filenm\ method
+comment4.target=java.util.ArrayList\ getMethod(java.lang.String,\ java.lang.String)
+comment5.params=filenm\ method
+comment5.target=void\ main(java.lang.String,\ java.lang.String)
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+numComments=7

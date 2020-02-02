@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Bar
+comment1.params=main
+comment1.target=Bar(Main)
+comment2.params=g2d
+comment2.target=void\ paint(java.awt.Graphics2D)
+comment3.params=
+comment3.target=int\ getPOSX()
+comment4.params=
+comment4.target=int\ getPOSY()
+comment5.params=posX
+comment5.target=void\ setPOSX(int)
+comment6.params=posY
+comment6.target=void\ setPOSY(int)
+comment7.params=
+comment7.target=int\ getBarWidth()
+comment8.params=
+comment8.target=int\ getBarHeight()
+numComments=9
